@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6306239D-D577-A3AB-8857-D3477A162746}|Unit Tests" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HolderTower.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HolderTower.cs" Line="17" Column="24" />
+      <File FileName="Assets/Scripts/ShopGame.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/Message.cs" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

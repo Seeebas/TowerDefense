@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff5e01891720042f6a996a547c320693
+timeCreated: 1495205690
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - canvasInfoTower: {fileID: 1355158013964310, guid: d51f33f8967f04c549c5c18433a51bb4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
