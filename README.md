@@ -29,7 +29,7 @@ All the assets that I use are free, some were downloaded from Unity Assets Store
 | ![mushroom](https://github.com/Seeebas/TowerDefense/blob/master/GameImages/print1.png?raw=true)|![heart](https://github.com/Seeebas/TowerDefense/blob/master/GameImages/print2.png?raw=true)|![cave](https://github.com/Seeebas/TowerDefense/blob/master/GameImages/print3.png?raw=true)|![portal](https://github.com/Seeebas/TowerDefense/blob/master/GameImages/print4.png?raw=true)
 
 # Download the game .exe for Windows
-[Downlonad Game](https://github.com/Seeebas/TowerDefense/raw/master/Windows.zip)
+[Download Game](https://github.com/Seeebas/TowerDefense/raw/master/Windows.zip)
 
 # License
 
